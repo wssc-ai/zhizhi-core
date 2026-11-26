@@ -26,6 +26,10 @@
 
 ## 目录
 
+**总图**
+
+- [整体框架](docs/01-overview/framework.md) —— 从上往下看一遍：四块、七段、状态、自主、账本
+
 **理论**
 
 - [00 · 角色不是助手](docs/02-theory/00-character-is-not-assistant.md) —— 地基。三条差别推出来的设计原则
