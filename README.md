@@ -36,6 +36,7 @@
 - [01 · 自我与不可替换](docs/02-theory/01-self-and-irreplaceability.md) —— "她算不算有自我"这个问题，最后落到哪里
 - [02 · 情绪与身体](docs/02-theory/02-affect-and-body.md) —— 情绪不是演出来的腔调，是改变行为的参数
 - [03 · 记忆与遗忘](docs/02-theory/03-memory-and-forgetting.md) —— 为什么"全记住"是错的
+- [04 · 时间](docs/02-theory/04-time.md) —— 她为什么不知道自己拖了几天。重复是有的，但重复对她不产生意义
 
 **工程**
 
