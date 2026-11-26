@@ -28,12 +28,14 @@
 
 **理论**
 
+- [00 · 角色不是助手](docs/02-theory/00-character-is-not-assistant.md) —— 地基。三条差别推出来的设计原则
 - [01 · 自我与不可替换](docs/02-theory/01-self-and-irreplaceability.md) —— "她算不算有自我"这个问题，最后落到哪里
 - [02 · 情绪与身体](docs/02-theory/02-affect-and-body.md) —— 情绪不是演出来的腔调，是改变行为的参数
 - [03 · 记忆与遗忘](docs/02-theory/03-memory-and-forgetting.md) —— 为什么"全记住"是错的
 
 **工程**
 
+- [00 · 失败模式分类](docs/03-engineering/00-failure-modes.md) —— 五类"假"，五个不同的层，五套不同的修法
 - [01 · 整体架构](docs/03-engineering/01-architecture.md) —— 四块拼起来的东西，以及为什么这么切
 - [02 · 人设与说话](docs/03-engineering/02-persona-and-speech.md) —— 让模型不像客服的十几个具体改动
 - [03 · 状态与自主](docs/03-engineering/03-state-and-agency.md) —— 心情、身体、日程、目标、走神
